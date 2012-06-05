@@ -1,0 +1,308 @@
+#page {
+  width: 980px;
+}
+
+#header {
+  background: #000099;
+  height: 100px;
+}
+
+#top-left {
+  border-right: 1px solid white;
+  float: left;
+  height: 101px;
+  width: 100px;
+}
+
+#header-text {
+  float: left;
+  height: 50px;
+  width: 858px;
+}
+
+#header-text h2 {
+  color: white;
+  margin-top: 5px;
+  text-align: center;
+}
+
+#top-menu {
+  background-color: navy;
+  border: 1px solid white;
+  float: left;
+  width: 980px;
+}
+
+#dealer-search {
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  color: white;
+  float: left;
+  height: 50px;
+  padding-right: 20px;
+  text-align: center;
+  width: 500px;
+}
+
+#dealer-search div.block {
+  color: white;
+  font-size: 11px;
+  text-align: center;
+}
+
+#dealer-search a {
+  background: #3972A2;
+  border-color: #FFFFFF #333333 #333333 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  color: #FFFFFF;
+  font-size: 11px;
+  margin-left: 10px;
+  width: 80px;
+}
+
+#site-login {
+  background: url("/sites/all/themes/crwtile/images/banners/header1.jpg") no-repeat;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  float: left;
+  height: 50px;
+  width: 357px;
+}
+
+#site-login ul li.leaf {
+  list-style-image: none;
+  list-style-type: none;
+}
+
+#site-login a {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg");
+  border-color: #FFFFFF #333333 #333333 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  float: right;
+  font-family: Verdana,Arial;
+  font-size: 11px;
+  line-height: 30px;
+  margin-right: 45px;
+  padding: 2px 6px 0;
+}
+
+#sidebar-first {
+  background: lightBlue;
+  width: 175px;
+}
+
+#sidebar-first ul li.leaf {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg");
+  border: 1px solid white;
+  height: 34px;
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: -26px;
+}
+
+#sidebar-first a {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding-left: 8px;
+}
+
+#sidebar-second {
+  background: lightBlue;
+  width: 130px;
+}
+
+.two-sidebars .center, .sidebar-first .center {
+  margin-left: 180px;
+}
+
+.two-sidebars .center, .sidebar-second .center {
+  margin-right: 140px;
+}
+
+#main {
+  background-color: lightBlue;
+  float: left;
+  width: 100%;
+}
+
+#footer-date {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg") repeat;
+  border: 1px solid white;
+  float: left;
+  height: 25px;
+  width: 240px;
+}
+
+#footer-menu {
+  background: #FF0000;
+  border: 1px solid white;
+  float: left;
+  height: 25px;
+  width: 498px;
+}
+
+#footer-copyright {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg") repeat;
+  border: 1px solid white;
+  float: left;
+  height: 25px;
+  width: 236px;
+}
+
+#block-nice_menus-1 ul.nice-menu li {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg");
+  border: 1px solid white;
+  width: 175px;
+}
+
+#block-nice_menus-1 ul.nice-menu a {
+  color: white;
+  font-size: 13px;
+}
+
+#block-nice_menus-2 ul.nice-menu li {
+  background: #3972A2;
+  border-color: #FFFFFF #333333 #333333 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  color: #FFFFFF;
+  font-size: 13px;
+  height: 75px;
+  margin-bottom: 5px;
+  margin-left: 6px;
+  padding-bottom: 5px;
+  width: 80px;
+}
+
+#block-nice_menus-2 ul.nice-menu a {
+  color: white;
+  text-align: center;
+}
+
+#block-nice_menus-3 ul.nice-menu li {
+  background: url("/sites/all/themes/crwtile/images/bg_menus.jpg");
+  border: 1px solid white;
+  height: 24px;
+  width: 164px;
+}
+
+#block-nice_menus-3 ul.nice-menu a {
+  color: white;
+  font-size: 13px;
+  padding-top: 3px;
+  text-align: center;
+}
+
+p.todays-date {
+  color: white;
+  padding-top: 3px;
+  text-align: center;
+}
+
+p.copyright {
+  color: white;
+  padding-top: 3px;
+  text-align: center;
+}
+
+p.renovator-logo {
+  text-align: center;
+}
+
+p.renovator-photo {
+  float: left;
+  padding-right: 10px;
+}
+
+img.imagecache-category {
+  float: left;
+  margin-left: 6px;
+  margin-right: 5px;
+}
+
+#block-block-8 {
+  float: left;
+  margin-bottom: -10px;
+  width: 560px;
+}
+
+#block-block-1 {
+  margin-bottom: -20px;
+}
+
+#block-block-2 {
+  margin-bottom: -20px;
+}
+
+#block-block-11 {
+  margin-top: 20px;
+}
+
+#block-views-product_catalog-block_1 {
+  float: left;
+}
+
+#branding {
+  float: left;
+}
+
+#block-block-5 {
+  color: white;
+  float: left;
+  margin-top: 5px;
+  padding-left: 5px;
+}
+
+#block-block-9 {
+  background: lightBlue;
+  float: left;
+  font-size: 13pt;
+  height: 35px;
+  margin-left: 7px;
+  margin-top: 7px;
+}
+
+#block-block-10 {
+  background: lightBlue;
+  float: left;
+  font-size: 13pt;
+  height: 35px;
+  margin-left: 7px;
+  margin-top: 7px;
+}
+
+#detroit-location {
+  font-style: italic;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+#southfield-location {
+  font-style: italic;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+div.view-display-id-node_content_2 {
+  float: none;
+}
+
+.imagecache-product-main {
+  float: left;
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+.imagecache-category-top {
+  padding-left: 4px;
+}
