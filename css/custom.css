@@ -306,3 +306,7 @@ div.view-display-id-node_content_2 {
 .imagecache-category-top {
   padding-left: 4px;
 }
+
+#store-footer {
+  display: none;
+}
